@@ -1,0 +1,168 @@
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.GPU.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.ML.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.OCR.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.OpenCL.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.Stitching.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.VideoStab.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.Util.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\ZedGraph.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.GPU.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.ML.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.OCR.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.OpenCL.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.Stitching.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.CV.VideoStab.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\bin\x86\Debug\Emgu.Util.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.UCT_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.User_UI.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 - 複製\obj\x86\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.GPU.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.ML.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.OCR.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.OpenCL.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.Stitching.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.VideoStab.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.Util.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\ZedGraph.dll
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.GPU.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.ML.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.OCR.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.OpenCL.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.Stitching.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.CV.VideoStab.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\bin\x86\Debug\Emgu.Util.xml
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.UCT_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.User_UI.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.GameTree4_Othello_Learning.resources
+C:\Users\User\Desktop\黑白棋\黑白棋-整合用 _Now\obj\x86\Debug\黑白棋.UCT_Othello_Learning.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\黑白棋.exe.config
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.exe
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.pdb
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.csprojResolveAssemblyReference.cache
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.CheckFaji.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Choice_Mode_Gomoku.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Choice_Type_Othell.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.CountChess_Othello.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.GameTree4_Othello.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.GameTree4_Othello_Learning.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\MCTS_Othello.MCTS.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.People_Gomoku.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.People_Othello.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Games_Lobby.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.GameTree1_Othello.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.GameTree3_Othello.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Choice_Mode_Othello.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Properties.Resources.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.integral_Othello.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Threat1_tree_Gomoku.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.UCT_Othello.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.UCT_Othello_Learning.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.User_UI.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\黑白棋.exe.config
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.exe
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.CheckFaji.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Choice_Mode_Gomoku.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Choice_Type_Othell.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.CountChess_Othello.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.GameTree4_Othello.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.GameTree4_Othello_Learning.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\MCTS_Othello.MCTS.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.People_Gomoku.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.People_Othello.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Games_Lobby.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.GameTree1_Othello.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.GameTree3_Othello.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Choice_Mode_Othello.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Properties.Resources.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.integral_Othello.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Threat1_tree_Gomoku.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.UCT_Othello.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.UCT_Othello_Learning.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.User_UI.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.csproj.GenerateResource.Cache
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\黑白棋.exe.manifest
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\黑白棋.application
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\黑白棋.exe
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\黑白棋.pdb
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\ZedGraph.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.GPU.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.ML.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.OCR.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.OpenCL.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.Stitching.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.UI.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.VideoStab.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.Util.xml
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.exe.manifest
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.application
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.GPU.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.ML.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.OCR.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.Stitching.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.UI.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.CV.VideoStab.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Emgu.Util.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Show_Error.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Show_confidence_playbook.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\Interop.WMPLib.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\Interop.WMPLib.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Google硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.csproj.ResolveComReference.cache
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\Interop.WMPLib.dll
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.csproj.ResolveComReference.cache
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Show_confidence_playbook.resources
+D:\Google 雲端硬碟\黑白棋_Now\黑白棋-整合用\obj\x86\Debug\黑白棋.Show_Error.resources

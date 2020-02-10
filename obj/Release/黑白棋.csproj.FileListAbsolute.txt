@@ -1,0 +1,143 @@
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\黑白棋.exe
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.GPU.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.ML.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.OCR.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.OpenCL.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.Stitching.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.UI.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.VideoStab.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.Util.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\ZedGraph.dll
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.GPU.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.ML.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.OCR.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.OpenCL.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.Stitching.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.UI.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.CV.VideoStab.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\Emgu.Util.xml
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.GameTree4_Othello_Learning.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.UCT_Othello.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.UCT_Othello_Learning.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.User_UI.resources
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.exe
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\黑白棋.exe.manifest
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\bin\Release\黑白棋.application
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.exe.manifest
+C:\Users\User\Desktop\黑白棋 - 複製\黑白棋-整合用 _Now\obj\Release\黑白棋.application
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.exe
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\黑白棋.exe.manifest
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\黑白棋.application
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\黑白棋.exe
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.GPU.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.ML.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.OCR.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.OpenCL.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.Stitching.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.UI.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.VideoStab.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.Util.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\ZedGraph.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.GPU.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.ML.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.OCR.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.OpenCL.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.Stitching.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.UI.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.CV.VideoStab.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\bin\Release\Emgu.Util.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.GameTree4_Othello_Learning.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.UCT_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.UCT_Othello_Learning.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.User_UI.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.exe.manifest
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用\obj\Release\黑白棋.application
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.exe
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\黑白棋.exe.manifest
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\黑白棋.application
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\黑白棋.exe
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.GPU.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.ML.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.OCR.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.OpenCL.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.Stitching.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.UI.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.VideoStab.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.Util.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\ZedGraph.dll
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.GPU.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.ML.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.OCR.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.OpenCL.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.Stitching.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.UI.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.CV.VideoStab.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\bin\Release\Emgu.Util.xml
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.GameTree4_Othello_Learning.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.UCT_Othello.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.UCT_Othello_Learning.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.User_UI.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.exe.manifest
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.application
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\黑白棋.CheckFaji.resources
+C:\Users\User\Desktop\黑白棋_Now\黑白棋-整合用 _實驗用 - 複製\obj\Release\MCTS_Othello.MCTS.resources
